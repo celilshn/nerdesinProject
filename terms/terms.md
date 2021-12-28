@@ -13,4 +13,5 @@ Yetkili idari ve adli otorite tarafından usulüne göre yürütülen bir araşt
 Kullanıcıların hakları veya güvenliklerini korumak için bilgi vermenin gerekli olduğu hallerdir.
 Nerdesin Mobil Uygulaması, gizli bilgileri kesinlikle özel ve gizli tutmayı, bunu bir sır saklama yükümü olarak addetmeyi ve gizliliğin sağlanması ve sürdürülmesi, gizli bilginin tamamının veya herhangi bir kısmının kamu alanına girmesini veya yetkisiz kullanımını veya üçüncü bir kişiye ifşasını önlemek için gerekli tüm tedbirleri almayı ve gerekli özeni göstermeyi taahhüt etmektedir.
 
+Türkiye Cumhuriyeti yasalarına ters düşebilecek herhangi bir amaçla kullanlması durumunda, paylaşılan tüm bilgiler; gerekli kamu kuruluşlarına iletilebilir. Nerdesin Uygulaması bu konuda herhangi bir sorumluluk kabul etmez. 
 Nerdesin Mobil Uygulaması, işbu "Kullanım Koşulları" hükümlerini dilediği zaman Uygulamada yayınlamak suretiyle değiştirebilir. Nerdesin Mobil Uygulaması'in değişiklik yaptığı Gizlilik Politikası hükümleri Uygulamada yayınlandığı tarihte yürürlülük kazanır.
